@@ -1,0 +1,6 @@
+export { Image } from './Image'
+export type { ImageProps } from './Image'
+export { Figure, FigureCaption } from './Figure'
+export type { FigureProps, FigureCaptionProps } from './Figure'
+export { Avatar } from './Avatar'
+export type { AvatarProps } from './Avatar'

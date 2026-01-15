@@ -1,0 +1,13 @@
+export { Heading } from './Heading'
+export type { HeadingProps } from './Heading'
+export { Text } from './Text'
+export type { TextProps } from './Text'
+export { Link } from './Link'
+export type { LinkProps } from './Link'
+export { Blockquote } from './Blockquote'
+export type { BlockquoteProps } from './Blockquote'
+export { CodeBlock } from './CodeBlock'
+export type { CodeBlockProps } from './CodeBlock'
+export { InlineCode } from './InlineCode'
+export type { InlineCodeProps } from './InlineCode'
+
