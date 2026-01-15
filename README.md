@@ -4,10 +4,10 @@ A simple component library that combines [Radix UI](https://www.radix-ui.com/) h
 
 ## Features
 
-- 🎨 Styled with Paper CSS for a hand-drawn, sketchy aesthetic
-- ♿ Accessible components built on Radix UI primitives
-- 📦 TypeScript support
-- 🎯 Simple and lightweight
+-  Styled with Paper CSS for a hand-drawn aesthetic
+-  Accessible components built on Radix UI primitives
+-  TypeScript support
+-  Simple and lightweight
 
 ## Installation
 
